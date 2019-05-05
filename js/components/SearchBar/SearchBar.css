@@ -1,0 +1,15 @@
+.searchBarWrapper {
+    width: 80vw;
+    margin: 100px auto 0;
+    color:green;
+
+
+}
+p{
+    color:green;
+    border:3px solid darkgreen;
+}
+input{
+    width:200px;
+    height:40px;
+}

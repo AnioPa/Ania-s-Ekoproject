@@ -1,9 +1,9 @@
 import React from 'react';
-import ListWrapper from "./components/Listwrapper/Listwrapper";
+import SearchBar from "./components/SearchBar/SearchBar";
 
 const App =()=>(
     <div>
-        <ListWrapper/>
+        <SearchBar/>
     </div>
 );
 
