@@ -1,0 +1,9 @@
+.headLineP {
+    color: blue;
+    font-size: 20px;
+    padding: 30px;
+    text-align: center;
+    background: url('../../../images/recykling.png') no-repeat ;
+    height:300px;
+
+}

@@ -1,6 +1,5 @@
 import React from 'react';
-import './Trashlist.css'
-import Animals from '../../../../images/animals.jpg';
+import './Trashlist.css';
 
 
 class TrashList extends React.Component {
@@ -8,7 +7,7 @@ class TrashList extends React.Component {
         super(props)
     }
     render() {
-        const trash=this.props.trash.map((element,index)=>{ return <li key={element.name}>{element.name} należy do kategorii {element.category} wyrzucamy go do  {element.basket}<br/> {element.description}</li>
+        const trash=this.props.trash.map((element,index)=>{ return <li className='TrashListLi'key={element.name}>{element.name} (należy/ą do kategorii {element.category}) wyrzucamy do  {element.basket} <br/> {element.description}</li>
 
         });
         if(this.props.trash.length>0){

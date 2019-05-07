@@ -1,6 +1,6 @@
 import React from 'react';
 import TrashList from './TrashList/TrashList';
-import './SearchBar.css'
+require ('./SearchBar.css');
 import allTrash from '../../data/allTrash.js'
 
 
@@ -13,6 +13,7 @@ class SearchBar extends React.Component {
 
         };
     }
+
     filterTrash(e) {
         const text = e.currentTarget.value;
         const filteredTrash = this.getFilteredTrashForText(text);
@@ -30,18 +31,18 @@ class SearchBar extends React.Component {
     render() {
         if(this.state.text !=='' && this.state.text.length>3) {
             return (
-                <div className='searchBarWrapper'>
-                    <p>Wpisz co chcesz wyrzucić. Poniżej wyświetli się typ pojemnika ;D</p>
-                    <input value={this.state.text} onChange={this.handleChange} onInput={this.filterTrash.bind(this)}/>
-                    <p>{this.state.text}  </p>
+                <div className='searchBarDiv' >
+                    <p className='searchBarP'>Ta wyszukiwarka powstała aby ułatwić Ci segregacje odpadów.</p>
+                    <input className='searchBarInput' value={this.state.text} onChange={this.handleChange} onInput={this.filterTrash.bind(this)} placeholder='Wpisz co chcesz wyrzucić. Poniżej wyświetli się typ pojemnika'/>
+                    <p className='searchBarPToo'>{this.state.text}  </p>
                     <TrashList trash={this.state.filteredTrash}/>
                 </div>
             )
         } else {
             return (
-                <div>
-                    <p>Wpisz co chcesz wyrzucić. Poniżej wyświetli się typ pojemnika ;D</p>
-                    <input value={this.state.text} onChange={this.handleChange} onInput={this.filterTrash.bind(this)}/>
+                <div className='searchBarDiv'>
+                    <p className='searchBarP'>Ta wyszukiwarka powstała aby ułatwić Ci segregacje odpadów.</p>
+                    <input className='searchBarInput' value={this.state.text} onChange={this.handleChange} onInput={this.filterTrash.bind(this)} placeholder='Wpisz co chcesz wyrzucić. Poniżej wyświetli się typ pojemnika'/>
                 </div>
             )
 

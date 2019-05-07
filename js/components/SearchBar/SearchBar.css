@@ -1,15 +1,24 @@
-.searchBarWrapper {
-    width: 80vw;
-    margin: 100px auto 0;
-    color:green;
-
-
+.searchBarDiv {
+    text-align: center;
+    box-sizing: border-box;
 }
-p{
+.searchBarP{
     color:green;
-    border:3px solid darkgreen;
+    margin:30px;
+    font-size:50px;
+    text-align: center;
 }
-input{
-    width:200px;
+.searchBarInput{
+    width:500px;
     height:40px;
+    border: 5px solid green;
+    padding: 20px;
+    margin: 20px;
+
+}
+.searchBarPToo{
+    color:green;
+    margin:30px;
+    font-size:50px;
+    text-align: center;
 }

@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import App from './App';
-require ('../index.css');
+require ('../css/main.scss');
 
 document.addEventListener('DOMContentLoaded',function(){
 

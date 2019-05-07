@@ -1,0 +1,54 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:300,500,800);
+.TrashListLi{
+    color: green;
+    padding:10px;
+}
+.searchBarDiv {
+    text-align: center;
+    box-sizing: border-box;
+}
+.searchBarP{
+    color:green;
+    margin:30px;
+    font-size:50px;
+    text-align: center;
+}
+.searchBarInput{
+    width:500px;
+    height:40px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+
+}
+.searchBarPToo{
+    color:green;
+}
+.headLineP {
+    color: blue;
+    font-size: 20px;
+    padding: 30px;
+    text-align: center;
+    background: url(images/recykling.png) no-repeat;
+    height:300px;
+
+}
+.typesOfBasketsImages{
+    height:500px;
+    width:1000px;
+    color:black;
+    font-size: 30px;
+    text-align: center;
+}
+img{
+    width:200px;
+    height:200px;
+}
+*, *::before, *::after {
+  box-sizing: border-box; }
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Montserrat, sans-serif; }
+

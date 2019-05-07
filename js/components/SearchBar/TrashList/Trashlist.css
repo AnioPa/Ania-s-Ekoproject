@@ -1,30 +1,4 @@
-.listItem__wrapper{
-    list-style: none;
-    padding:0;
-    margin:0 0 50px;
-    color: red;
-    display: flex;
-    align-items: center;
-}
-
-.listItem__image {
-    flex-shrink: 0;
-    width:150px;
-    height:150px;
-    border-radius: 50%;
-    margin-right: 30px;
-}
-
-.listItem__header{
-    font-weight: bold;
-}
-.listItem__description {
-    margin: 10px 0 20px;
-    font-weight: normal;
-}
-.listItem__button {
-    font-weight: bold;
-    border-radius: 50%;
-    background-color: darkblue;
-    color: white;
+.TrashListLi{
+    color: green;
+    padding:10px;
 }
