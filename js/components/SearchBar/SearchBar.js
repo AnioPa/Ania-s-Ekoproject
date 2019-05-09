@@ -4,6 +4,9 @@ require ('./SearchBar.css');
 import allTrash from '../../data/allTrash.js'
 
 
+
+
+
 class SearchBar extends React.Component {
     constructor() {
         super();

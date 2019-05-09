@@ -1,6 +1,7 @@
 import React from 'react';
 require ('./HeadLine.css');
 
+
 class HeadLine extends React.Component {
     constructor(props) {
         super(props)

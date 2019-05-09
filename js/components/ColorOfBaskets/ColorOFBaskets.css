@@ -1,0 +1,41 @@
+.colorOfBaskets{
+    margin-top:40px;
+    display: flex;
+    justify-content: center;
+    transition-duration:4s;
+}
+.papier {
+   background: url('../../../images/papier.png') no-repeat;
+   width:200px;
+   height:200px;
+}
+.bio{
+    background: url('../../../images/bio.png') no-repeat;
+    width:200px;
+    height:200px;
+}
+.zmieszane{
+    background: url('../../../images/zmieszane.png') no-repeat;
+    width:200px;
+    height:200px;
+}
+.szklo{
+    background: url('../../../images/szklo.png') no-repeat;
+    width:200px;
+    height:200px;
+}
+.metale{
+    background: url('../../../images/metale_i_tworzywasztuczne.png') no-repeat;
+    width:200px;
+    height:200px;
+}
+.zielone{
+    background: url('../../../images/zielone.png') no-repeat;
+    width:200px;
+    height:200px;
+}
+.wielkogabarytowe{
+    background: url('../../../images/odpady_wielkogabarytowe.png') no-repeat;
+    width:200px;
+    height:200px;
+}

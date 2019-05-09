@@ -2,12 +2,19 @@ import React from 'react';
 import './Trashlist.css';
 
 
+
 class TrashList extends React.Component {
     constructor(props) {
         super(props)
     }
     render() {
-        const trash=this.props.trash.map((element,index)=>{ return <li className='TrashListLi'key={element.name}>{element.name} (należy/ą do kategorii {element.category}) wyrzucamy do  {element.basket} <br/> {element.description}</li>
+        const trash=this.props.trash.map((element,index)=>
+        { return <div className=''>
+                <img src={element.image} alt=''/>
+                <div className='info'>
+                    <li className='TrashListLi'key={element.name}>{element.name} (należy/ą do kategorii {element.category}) wyrzucamy do  {element.basket} <br/> {element.description} <div className='TarshListDiv'>{element.image}</div></li>
+                </div>
+            </div>
 
         });
         if(this.props.trash.length>0){
@@ -24,6 +31,9 @@ class TrashList extends React.Component {
 
     }
 }
+/*
+<li className='TrashListLi'key={element.name}>{element.name} (należy/ą do kategorii {element.category}) wyrzucamy do  {element.basket} <br/> {element.description} <div className='TarshListDiv'>{element.image}</div></li>
+ */
 
 
 export default TrashList;

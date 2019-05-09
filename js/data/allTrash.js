@@ -1,75 +1,108 @@
+import szklo from "./../../images/szklo.png";
+import bio from "./../../images/bio.png";
+import papier from "./../../images/papier.png";
+
+
+
+
 const allTrash=[
     {
         name:'papier',
         category:'papier',
         basket:'pojemnika o kolorze niebieskim',
         description:'tylko czyste opakowania z papieu i tektury',
-        image: 'papier.png'
+        image: papier
     },
     {
         name:'gazety',
         category:'papier',
-        basket:'pojemnika o kolorze niebieskim'
+        basket:'pojemnika o kolorze niebieskim',
+        image: papier
+
     },
     {
         name:'gazeta',
         category:'papier',
-        basket:'pojemnika o kolorze niebieskim'
+        basket:'pojemnika o kolorze niebieskim',
+        image: papier
+
     },
     {
         name:'karton',
         category:'papier',
-        basket:'pojemnika o kolorze niebieskim'
+        basket:'pojemnika o kolorze niebieskim',
+        image: papier
+
     },
     {
         name:'kartony',
         category:'papier',
-        basket:'pojemnika o kolorze niebieskim'
+        basket:'pojemnika o kolorze niebieskim',
+        image: papier
+
     },
     {
         name:'ulotka',
         category:'papier',
-        basket:'pojemnika o kolorze niebieskim'
+        basket:'pojemnika o kolorze niebieskim',
+        image: papier
+
     },
     {
         name:'ulotki',
         category:'papier',
-        basket:'pojemnika o kolorze niebieskim'
+        basket:'pojemnika o kolorze niebieskim',
+        image: papier
+
     },
     {
         name:'zeszyt',
         category:'papier',
-        basket:'pojemnika o kolorze niebieskim'
+        basket:'pojemnika o kolorze niebieskim',
+        image: papier
+
     },
     {
         name:'ulotka',
         category:'papier',
-        basket:'pojemnika o kolorze niebieskim'
+        basket:'pojemnika o kolorze niebieskim',
+        image: papier
+
     },
     {
         name:'zeszyty',
         category:'papier',
-        basket:'pojemnika o kolorze niebieskim'
+        basket:'pojemnika o kolorze niebieskim',
+        image: papier
+
     },
     {
         name:'czyste opakowania z papieru',
         category:'papier',
-        basket:'pojemnika o kolorze niebieskim'
+        basket:'pojemnika o kolorze niebieskim',
+        image: papier
+
     },
     {
         name:'tektura',
         category:'papier',
-        basket:'pojemnika o kolorze niebieskim'
+        basket:'pojemnika o kolorze niebieskim',
+        image:papier
+
     },
     {
         name:'gazety',
         category:'papier',
-        basket:'pojemnika o kolorze niebieskim'
+        basket:'pojemnika o kolorze niebieskim',
+        image: papier
+
     },
     {
         name:'papier biurowy',
         category:'papier',
-        basket:'pojemnika o kolorze niebieskim'
+        basket:'pojemnika o kolorze niebieskim',
+        image: papier
+
     },
     {
         name:'butelki szklane',
@@ -145,7 +178,8 @@ const allTrash=[
     {
         name:'słoik',
         category:'szkło',
-        basket:'pojemnika o kolorze zielonym'
+        basket:'pojemnika o kolorze zielonym',
+        image:szklo
 
     },
     {
@@ -171,7 +205,8 @@ const allTrash=[
         name:'odpadki warzywne',
         category:'bio z gospodarstw domowych',
         basket:'pojemnika o kolorze brązowym',
-        description:''
+        description:'',
+        image: bio
     },
     {
         name:'odpadki owocowe',
