@@ -1,6 +1,27 @@
+.TrashListDiv {
+    display: flex;
+    justify-content: center;
+    height: 90px;
+    width: 650px;
+    background: #efefef;
+    border: 2px solid #ccc;
+    margin: 1px 0;
+
+}
 .TrashListLi{
     color: green;
-    padding:10px;
+
+}
+.TrashListImg{
+    width: 64px;
+    height: 64px;
+    vertical-align: middle;
+    margin: 10px;
+}
+
+.TrashList {
+    display:flex;
+    flex-direction: row;
 }
 
 
