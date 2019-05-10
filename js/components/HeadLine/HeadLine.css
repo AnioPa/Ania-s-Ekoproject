@@ -1,9 +1,19 @@
+.headLineDiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.headLineImg{
+    height:200px;
+    width:15%;
+}
+
 .headLineP {
     margin-top:50px;
     color: blue;
     font-size: 20px;
     padding: 30px;
     text-align: center;
-    background: url('../../../images/recykling.png') no-repeat;
     height:270px;
+    width:85%;
 }

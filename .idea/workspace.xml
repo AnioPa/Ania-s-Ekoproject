@@ -3,12 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="19a95d0d-4601-493d-a955-a12c9dec99a6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/components/ColorOfBaskets/ColorOFBaskets.css" beforeDir="false" afterPath="$PROJECT_DIR$/js/components/ColorOfBaskets/ColorOFBaskets.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/components/ColorOfBaskets/ColorOfBaskets.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/components/ColorOfBaskets/ColorOfBaskets.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/components/HeadLine/HeadLine.css" beforeDir="false" afterPath="$PROJECT_DIR$/js/components/HeadLine/HeadLine.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/components/SearchBar/SearchBar.css" beforeDir="false" afterPath="$PROJECT_DIR$/js/components/SearchBar/SearchBar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/components/HeadLine/HeadLine.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/components/HeadLine/HeadLine.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/components/SearchBar/SearchBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/components/SearchBar/SearchBar.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/components/SearchBar/TrashList/TrashList.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/components/SearchBar/TrashList/TrashList.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/components/SearchBar/TrashList/Trashlist.css" beforeDir="false" afterPath="$PROJECT_DIR$/js/components/SearchBar/TrashList/Trashlist.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/data/allTrash.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/data/allTrash.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/data/colorOfBaskes.js" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,7 +24,7 @@
     <session id="214668276">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="16" />
+          <entry key="project.closed" value="17" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="3" />
@@ -38,11 +39,11 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="53" />
+          <entry key="css" value="59" />
           <entry key="gitignore" value="2" />
           <entry key="html" value="4" />
           <entry key="jpg" value="2" />
-          <entry key="js" value="82" />
+          <entry key="js" value="92" />
           <entry key="json" value="5" />
           <entry key="jsx" value="7" />
           <entry key="png" value="3" />
@@ -51,29 +52,29 @@
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="52" />
+          <entry key="CSS" value="58" />
           <entry key="HTML" value="4" />
           <entry key="Image" value="5" />
           <entry key="JSON" value="5" />
           <entry key="JSX Harmony" value="7" />
-          <entry key="JavaScript" value="82" />
+          <entry key="JavaScript" value="92" />
           <entry key="PLAIN_TEXT" value="3" />
           <entry key="SCSS" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="2167" />
-          <entry key="js" value="7321" />
+          <entry key="css" value="2522" />
+          <entry key="js" value="8977" />
           <entry key="jsx" value="107" />
           <entry key="scss" value="235" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="2167" />
+          <entry key="CSS" value="2522" />
           <entry key="JSX Harmony" value="107" />
-          <entry key="JavaScript" value="7321" />
+          <entry key="JavaScript" value="8977" />
           <entry key="SCSS" value="235" />
         </counts>
       </usages-collector>
@@ -82,22 +83,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/components/ColorOfBaskets/ColorOfBaskets.js">
+        <entry file="file://$PROJECT_DIR$/js/components/Modal/Modal.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="520">
-              <caret line="128" column="30" selection-start-line="128" selection-start-column="30" selection-end-line="128" selection-end-column="30" />
-              <folding>
-                <element signature="e#61#109#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="231">
+              <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/components/ColorOfBaskets/ColorOFBaskets.css">
+        <entry file="file://$PROJECT_DIR$/js/components/Modal/Modal.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
+            <state relative-caret-position="231">
+              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -105,11 +103,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/data/allTrash.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-              <folding>
-                <element signature="e#0#45#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="394">
+              <caret line="451" column="16" selection-start-line="451" selection-start-column="16" selection-end-line="451" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -117,8 +112,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/components/SearchBar/TrashList/TrashList.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+            <state relative-caret-position="496">
+              <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
@@ -129,38 +124,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/components/SearchBar/TrashList/Trashlist.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/components/SearchBar/SearchBar.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="15" selection-start-column="15" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/App.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
-              <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-              <folding>
-                <element signature="e#0#26#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/js/components/HeadLine/HeadLine.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+            <state relative-caret-position="499">
+              <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -168,20 +133,38 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/components/HeadLine/HeadLine.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="84">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/components/SearchBar/SearchBar.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="63">
+              <caret line="3" column="27" lean-forward="true" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/components/SearchBar/SearchBar.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="211">
+              <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/js/components/HeadLine/HeadLine.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -198,6 +181,10 @@
       <find>li</find>
       <find>version</find>
       <find>traw</find>
+      <find>ubrania</find>
+      <find>mokry</find>
+      <find>zielone</find>
+      <find>bio</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -239,17 +226,19 @@
         <option value="$PROJECT_DIR$/js/data/App.js" />
         <option value="$PROJECT_DIR$/js/app.jsx" />
         <option value="$PROJECT_DIR$/js/data/colorOfBaskets.js" />
-        <option value="$PROJECT_DIR$/js/components/HeadLine/HeadLine.js" />
-        <option value="$PROJECT_DIR$/js/data/colorOfBaskes.js" />
-        <option value="$PROJECT_DIR$/js/components/SearchBar/SearchBar.js" />
-        <option value="$PROJECT_DIR$/js/data/allTrash.js" />
-        <option value="$PROJECT_DIR$/js/components/HeadLine/HeadLine.css" />
-        <option value="$PROJECT_DIR$/js/components/SearchBar/TrashList/TrashList.js" />
         <option value="$PROJECT_DIR$/js/App.js" />
         <option value="$PROJECT_DIR$/js/components/ColorOfBaskets/ColorOfBaskets.js" />
-        <option value="$PROJECT_DIR$/js/components/SearchBar/SearchBar.css" />
-        <option value="$PROJECT_DIR$/js/components/SearchBar/TrashList/Trashlist.css" />
         <option value="$PROJECT_DIR$/js/components/ColorOfBaskets/ColorOFBaskets.css" />
+        <option value="$PROJECT_DIR$/js/data/colorOfBaskes.js" />
+        <option value="$PROJECT_DIR$/js/components/HeadLine/HeadLine.css" />
+        <option value="$PROJECT_DIR$/js/components/Modal/Modal.js" />
+        <option value="$PROJECT_DIR$/js/components/Modal/Modal.css" />
+        <option value="$PROJECT_DIR$/js/components/HeadLine/HeadLine.js" />
+        <option value="$PROJECT_DIR$/js/components/SearchBar/SearchBar.css" />
+        <option value="$PROJECT_DIR$/js/components/SearchBar/SearchBar.js" />
+        <option value="$PROJECT_DIR$/js/data/allTrash.js" />
+        <option value="$PROJECT_DIR$/js/components/SearchBar/TrashList/TrashList.js" />
+        <option value="$PROJECT_DIR$/js/components/SearchBar/TrashList/Trashlist.css" />
       </list>
     </option>
   </component>
@@ -267,10 +256,9 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-4" />
-    <option name="y" value="4" />
-    <option name="width" value="640" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="676" />
+    <option name="width" value="697" />
     <option name="height" value="735" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -287,6 +275,44 @@
               <item name="Ania-s-Ekoproject" type="b2602c69:ProjectViewProjectNode" />
               <item name="Ania-s-Ekoproject" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Ania-s-Ekoproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ania-s-Ekoproject" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ania-s-Ekoproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ania-s-Ekoproject" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ania-s-Ekoproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ania-s-Ekoproject" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="HeadLine" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ania-s-Ekoproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ania-s-Ekoproject" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="Modal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ania-s-Ekoproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ania-s-Ekoproject" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="SearchBar" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Ania-s-Ekoproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Ania-s-Ekoproject" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -302,17 +328,17 @@
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Użytkownik\Desktop\Ania-s-Ekoproject\js\data" />
-      <recent name="C:\Users\Użytkownik\Desktop\Ania-s-Ekoproject\dist" />
-      <recent name="C:\Users\Użytkownik\Desktop\Ania-s-Ekoproject\images" />
-      <recent name="C:\Users\Użytkownik\Desktop\Ania-s-Ekoproject" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Użytkownik\Desktop\Ania-s-Ekoproject\js" />
       <recent name="C:\Users\Użytkownik\Desktop\Ania-s-Ekoproject\js\data" />
       <recent name="C:\Users\Użytkownik\Desktop\Ania-s-Ekoproject\js\components\App" />
       <recent name="C:\Users\Użytkownik\Desktop\Ania-s-Ekoproject\css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Użytkownik\Desktop\Ania-s-Ekoproject\js\data" />
+      <recent name="C:\Users\Użytkownik\Desktop\Ania-s-Ekoproject\dist" />
+      <recent name="C:\Users\Użytkownik\Desktop\Ania-s-Ekoproject\images" />
+      <recent name="C:\Users\Użytkownik\Desktop\Ania-s-Ekoproject" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -354,20 +380,19 @@
       <workItem from="1557358171710" duration="1970000" />
       <workItem from="1557404174890" duration="7220000" />
       <workItem from="1557414358156" duration="605000" />
-      <workItem from="1557480080495" duration="1253000" />
+      <workItem from="1557480080495" duration="15348000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76616000" />
+    <option name="totallyTimeSpent" value="90711000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <layout>
       <window_info id="npm" order="0" side_tool="true" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.21354167" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.20238096" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.4984326" weight="0.4557377" />
@@ -517,24 +542,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/data/colorOfBaskets.js" />
     <entry file="file://$PROJECT_DIR$/js/data/zadanie00_02.js" />
-    <entry file="file://$PROJECT_DIR$/js/data/colorOfBaskes.js">
+    <entry file="file://$PROJECT_DIR$/js/App.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/components/HeadLine/HeadLine.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/components/SearchBar/SearchBar.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="226">
+          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
@@ -543,8 +554,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/components/ColorOfBaskets/ColorOfBaskets.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="520">
-          <caret line="128" column="30" selection-start-line="128" selection-start-column="30" selection-end-line="128" selection-end-column="30" />
+        <state relative-caret-position="399">
+          <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
           <folding>
             <element signature="e#61#109#0" expanded="true" />
           </folding>
@@ -558,20 +569,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/data/allTrash.js">
+    <entry file="file://$PROJECT_DIR$/js/data/colorOfBaskes.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/components/Modal/Modal.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#45#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="231">
+          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/components/Modal/Modal.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/components/HeadLine/HeadLine.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/components/HeadLine/HeadLine.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/components/SearchBar/SearchBar.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="3" column="27" lean-forward="true" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/components/SearchBar/TrashList/TrashList.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="17" column="38" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+        <state relative-caret-position="496">
+          <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
@@ -580,32 +619,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/components/SearchBar/TrashList/Trashlist.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="23" column="23" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+        <state relative-caret-position="499">
+          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/components/SearchBar/SearchBar.css">
+    <entry file="file://$PROJECT_DIR$/js/data/allTrash.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        <state relative-caret-position="394">
+          <caret line="451" column="16" selection-start-line="451" selection-start-column="16" selection-end-line="451" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/App.js">
+    <entry file="file://$PROJECT_DIR$/js/components/SearchBar/SearchBar.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
-          <caret line="11" column="20" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        <state relative-caret-position="211">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/components/HeadLine/HeadLine.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
         </state>
       </provider>
     </entry>

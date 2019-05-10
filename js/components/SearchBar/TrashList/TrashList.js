@@ -11,7 +11,7 @@ class TrashList extends React.Component {
         const trash=this.props.trash.map((element,index)=>
         { return <div className='TrashListDiv'>
                 <img className='TrashListImg' src={element.image} alt=''/>
-                <li className='TrashListLi' key={element.name}>{element.name} (należy/ą do kategorii {element.category}) wyrzucamy do  {element.basket} <br/> {element.description}</li>
+                <li className='TrashListLi' key={element.name}>{element.name}<br/> kategoria: {element.category}<br/> kolor pojemnika: {element.basket} <br/> {element.description}</li>
             </div>
 
         });

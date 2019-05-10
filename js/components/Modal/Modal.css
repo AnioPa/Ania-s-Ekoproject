@@ -1,0 +1,12 @@
+.ModalDiv {
+    top:50%;
+    transform: translateY(-50%);
+    left:0;
+    right:0;
+    margin:0 auto;
+    width: 60vw;
+    height:70vH;
+    background-color: white;
+    box-shadow: 0 10px 40px -10px rgba(#818181, .5);
+    position:fixed;
+}

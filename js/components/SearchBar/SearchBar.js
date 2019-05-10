@@ -36,7 +36,7 @@ class SearchBar extends React.Component {
             return (
                 <div className='searchBarDiv' >
                     <p className='searchBarP'>Ta wyszukiwarka powstała aby ułatwić Ci segregacje odpadów.</p>
-                    <input className='searchBarInput' value={this.state.text} onChange={this.handleChange} onInput={this.filterTrash.bind(this)} placeholder='Wpisz co chcesz wyrzucić. Poniżej wyświetli się typ pojemnika'/>
+                    <input className='searchBarInput' value={this.state.text} onChange={this.handleChange} onInput={this.filterTrash.bind(this)} placeholder='Wpisz co chcesz wyrzucić. Poniżej wyświetli się kolor pojemnika'/>
                     <p className='searchBarPToo'>{this.state.text}  </p>
                     <TrashList trash={this.state.filteredTrash}/>
                 </div>
