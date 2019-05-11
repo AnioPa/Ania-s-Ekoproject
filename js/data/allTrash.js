@@ -280,70 +280,70 @@ const allTrash=[
         name:'resztki mięsne',
         category:'zmieszane',
         basket:'czarny',
-        description:'do tego pojemnika wrzucaj tylko to, czego nie udało się rozdzielić do pojemników na odpady segregowane lub czego nie można oddać do PSZOK-u lub MPSZOK-u',
+        description:'',
         image:zmieszane
     },
     {
         name:'kości',
         category:'zmieszane',
         basket:'czarny',
-        description:'do tego pojemnika wrzucaj tylko to, czego nie udało się rozdzielić do pojemników na odpady segregowane lub czego nie można oddać do PSZOK-u lub MPSZOK-u',
+        description:'',
         image:zmieszane
     },
     {
         name:'mokry i zabrudzony papier',
         category:'zmieszane',
         basket:'czarny',
-        description:'do tego pojemnika wrzucaj tylko to, czego nie udało się rozdzielić do pojemników na odpady segregowane lub czego nie można oddać do PSZOK-u lub MPSZOK-u',
+        description:'',
         image:zmieszane
     },
     {
         name:'zużyte materiały higieniczne',
         category:'zmieszane',
         basket:'czarny',
-        description:'do tego pojemnika wrzucaj tylko to, czego nie udało się rozdzielić do pojemników na odpady segregowane lub czego nie można oddać do PSZOK-u lub MPSZOK-u',
+        description:'',
         image:zmieszane
     },
     {
         name:'pieluchy',
         category:'zmieszane',
         basket:'czarny',
-        description:'do tego pojemnika wrzucaj tylko to, czego nie udało się rozdzielić do pojemników na odpady segregowane lub czego nie można oddać do PSZOK-u lub MPSZOK-u',
+        description:'',
         image:zmieszane
     },
     {
         name:'pieluchy jednorazowe',
         category:'zmieszane',
         basket:'czarny',
-        description:'do tego pojemnika wrzucaj tylko to, czego nie udało się rozdzielić do pojemników na odpady segregowane lub czego nie można oddać do PSZOK-u lub MPSZOK-u',
+        description:'',
         image:zmieszane
     },
     {
         name:'żwirek z kuwet',
         category:'zmieszane',
         basket:'czarny',
-        description:'do tego pojemnika wrzucaj tylko to, czego nie udało się rozdzielić do pojemników na odpady segregowane lub czego nie można oddać do PSZOK-u lub MPSZOK-u',
+        description:'',
         image:zmieszane
     },
     {
         name:'fajans',
         category:'zmieszane',
         basket:'czarny',
-        description:'do tego pojemnika wrzucaj tylko to, czego nie udało się rozdzielić do pojemników na odpady segregowane lub czego nie można oddać do PSZOK-u lub MPSZOK-u',
+        description:'',
         image:zmieszane
     },
     {
         name:'potłuczone szkło i lustra',
         category:'zmieszane',
         basket:'czarny',
-        description:'do tego pojemnika wrzucaj tylko to, czego nie udało się rozdzielić do pojemników na odpady segregowane lub czego nie można oddać do PSZOK-u lub MPSZOK-u',
+        description:'',
         image:zmieszane
     },
     {
         name:'tekstylia i ubrania',
         category:'zmieszane',
         basket:'czarny',
-        description:'do tego pojemnika wrzucaj tylko to, czego nie udało się rozdzielić do pojemników na odpady segregowane lub czego nie można oddać do PSZOK-u lub MPSZOK-u',
+        description:'',
         image:zmieszane
     },
     {
@@ -451,6 +451,98 @@ const allTrash=[
         description:'oddajemy do wybranych aptek lub PSZOK-ów',
         image:''
     },
+    {
+        name:'zużyty sprzęt elektroniczny',
+        category:'inne',
+        basket:'--',
+        description:'oddajemy do PSZOK-u',
+        image:''
+    },
+    {
+        name:'zużyte baterie',
+        category:'inne',
+        basket:'--',
+        description:'oddajemy do PSZOK-u',
+        image:''
+    },
+    {
+        name:'akumulatory',
+        category:'inne',
+        basket:'--',
+        description:'oddajemy do PSZOK-u',
+        image:''
+    },
+    {
+        name:'pojemniki pod ciśnieniem po aerozolach',
+        category:'inne',
+        basket:'--',
+        description:'oddajemy do PSZOK-u',
+        image:''
+    },
+    {
+        name:'puszki po farbach',
+        category:'inne',
+        basket:'--',
+        description:'oddajemy do PSZOK-u',
+        image:''
+    },
+    {
+        name:'odpady z betonu',
+        category:'inne',
+        basket:'--',
+        description:'oddajemy do PSZOK-u',
+        image:''},
+    {
+        name:'odpady z gruzu ceglanego',
+        category:'inne',
+        basket:'--',
+        description:'oddajemy do PSZOK-u',
+        image:''
+    },
+    {
+        name:'opony samochodowe',
+        category:'inne',
+        basket:'--',
+        description:'oddajemy do PSZOK-u',
+        image:''
+    },
+    {
+        name:'substancje żrące',
+        category:'inne',
+        basket:'--',
+        description:'oddajemy do PSZOK-u',
+        image:''
+    },
+    {
+        name:'pralka, pralki',
+        category:'inne',
+        basket:'--',
+        description:'oddajemy do PSZOK-u',
+        image:''
+    },
+    {
+        name:'telewizor, telewizory',
+        category:'inne',
+        basket:'--',
+        description:'oddajemy do PSZOK-u',
+        image:''
+    },
+    {
+        name:'lodówka, lodówki',
+        category:'inne',
+        basket:'--',
+        description:'oddajemy do PSZOK-u',
+        image:''
+    },
+    {
+        name:'czajnki elektryczny',
+        category:'inne',
+        basket:'--',
+        description:'oddajemy do PSZOK-u lub MPSZOKU-u',
+        image:''
+    },
+
+
 
 
 

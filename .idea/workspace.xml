@@ -3,13 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="19a95d0d-4601-493d-a955-a12c9dec99a6" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/components/HeadLine/HeadLine.css" beforeDir="false" afterPath="$PROJECT_DIR$/js/components/HeadLine/HeadLine.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/components/HeadLine/HeadLine.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/components/HeadLine/HeadLine.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/components/SearchBar/SearchBar.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/components/SearchBar/SearchBar.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/components/ColorOfBaskets/ColorOFBaskets.css" beforeDir="false" afterPath="$PROJECT_DIR$/js/components/ColorOfBaskets/ColorOFBaskets.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/components/ColorOfBaskets/ColorOfBaskets.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/components/ColorOfBaskets/ColorOfBaskets.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/components/Modal/Modal.css" beforeDir="false" afterPath="$PROJECT_DIR$/js/components/Modal/Modal.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/components/SearchBar/TrashList/TrashList.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/components/SearchBar/TrashList/TrashList.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/components/SearchBar/TrashList/Trashlist.css" beforeDir="false" afterPath="$PROJECT_DIR$/js/components/SearchBar/TrashList/Trashlist.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/data/allTrash.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/data/allTrash.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/js/data/colorOfBaskes.js" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,78 +22,83 @@
     <session id="214668276">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="17" />
+          <entry key="project.closed" value="18" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.11" value="1" />
           <entry key="project.open.time.12" value="3" />
+          <entry key="project.open.time.13" value="1" />
           <entry key="project.open.time.14" value="1" />
           <entry key="project.open.time.18" value="1" />
           <entry key="project.open.time.2" value="3" />
           <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.3" value="5" />
           <entry key="project.open.time.4" value="2" />
-          <entry key="project.opened" value="18" />
+          <entry key="project.opened" value="19" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="css" value="59" />
+          <entry key="css" value="66" />
           <entry key="gitignore" value="2" />
-          <entry key="html" value="4" />
+          <entry key="html" value="5" />
           <entry key="jpg" value="2" />
-          <entry key="js" value="92" />
+          <entry key="js" value="116" />
           <entry key="json" value="5" />
-          <entry key="jsx" value="7" />
+          <entry key="jsx" value="8" />
           <entry key="png" value="3" />
           <entry key="scss" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="58" />
-          <entry key="HTML" value="4" />
+          <entry key="CSS" value="65" />
+          <entry key="HTML" value="5" />
           <entry key="Image" value="5" />
           <entry key="JSON" value="5" />
-          <entry key="JSX Harmony" value="7" />
-          <entry key="JavaScript" value="92" />
+          <entry key="JSX Harmony" value="8" />
+          <entry key="JavaScript" value="116" />
           <entry key="PLAIN_TEXT" value="3" />
           <entry key="SCSS" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="2522" />
-          <entry key="js" value="8977" />
+          <entry key="css" value="2940" />
+          <entry key="js" value="12054" />
           <entry key="jsx" value="107" />
           <entry key="scss" value="235" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="2522" />
+          <entry key="CSS" value="2940" />
+          <entry key="HTML" value="2" />
           <entry key="JSX Harmony" value="107" />
-          <entry key="JavaScript" value="8977" />
+          <entry key="JavaScript" value="12052" />
           <entry key="SCSS" value="235" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/components/Modal/Modal.js">
+        <entry file="file://$PROJECT_DIR$/js/components/ColorOfBaskets/ColorOfBaskets.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+            <state relative-caret-position="4263">
+              <caret line="201" selection-start-line="201" selection-end-line="201" />
+              <folding>
+                <element signature="e#61#109#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/components/Modal/Modal.css">
+        <entry file="file://$PROJECT_DIR$/js/components/ColorOfBaskets/ColorOFBaskets.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+            <state relative-caret-position="435">
+              <caret line="49" selection-start-line="49" selection-end-line="49" />
             </state>
           </provider>
         </entry>
@@ -103,8 +106,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/data/allTrash.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="394">
-              <caret line="451" column="16" selection-start-line="451" selection-start-column="16" selection-end-line="451" selection-end-column="16" />
+            <state relative-caret-position="436">
+              <caret line="542" column="6" selection-start-line="542" selection-start-column="6" selection-end-line="542" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -112,38 +115,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/components/SearchBar/TrashList/TrashList.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="496">
-              <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+            <state relative-caret-position="163">
+              <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/components/SearchBar/TrashList/Trashlist.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="499">
-              <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/components/HeadLine/HeadLine.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/components/SearchBar/SearchBar.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="63">
-              <caret line="3" column="27" lean-forward="true" selection-start-line="3" selection-start-column="27" selection-end-line="3" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -151,20 +127,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/js/components/SearchBar/SearchBar.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="211">
+            <state relative-caret-position="68">
               <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
               <folding>
                 <element signature="e#0#26#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/components/HeadLine/HeadLine.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -227,18 +194,18 @@
         <option value="$PROJECT_DIR$/js/app.jsx" />
         <option value="$PROJECT_DIR$/js/data/colorOfBaskets.js" />
         <option value="$PROJECT_DIR$/js/App.js" />
-        <option value="$PROJECT_DIR$/js/components/ColorOfBaskets/ColorOfBaskets.js" />
-        <option value="$PROJECT_DIR$/js/components/ColorOfBaskets/ColorOFBaskets.css" />
         <option value="$PROJECT_DIR$/js/data/colorOfBaskes.js" />
         <option value="$PROJECT_DIR$/js/components/HeadLine/HeadLine.css" />
         <option value="$PROJECT_DIR$/js/components/Modal/Modal.js" />
-        <option value="$PROJECT_DIR$/js/components/Modal/Modal.css" />
         <option value="$PROJECT_DIR$/js/components/HeadLine/HeadLine.js" />
         <option value="$PROJECT_DIR$/js/components/SearchBar/SearchBar.css" />
-        <option value="$PROJECT_DIR$/js/components/SearchBar/SearchBar.js" />
+        <option value="$PROJECT_DIR$/js/components/SearchBar/TrashList/Trashlist.css" />
+        <option value="$PROJECT_DIR$/js/components/Modal/Modal.css" />
+        <option value="$PROJECT_DIR$/js/components/ColorOfBaskets/ColorOFBaskets.css" />
+        <option value="$PROJECT_DIR$/js/components/ColorOfBaskets/ColorOfBaskets.js" />
         <option value="$PROJECT_DIR$/js/data/allTrash.js" />
         <option value="$PROJECT_DIR$/js/components/SearchBar/TrashList/TrashList.js" />
-        <option value="$PROJECT_DIR$/js/components/SearchBar/TrashList/Trashlist.css" />
+        <option value="$PROJECT_DIR$/js/components/SearchBar/SearchBar.js" />
       </list>
     </option>
   </component>
@@ -256,7 +223,7 @@
       <path value="$PROJECT_DIR$/package.json" />
     </packageJsonPaths>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="676" />
     <option name="width" value="697" />
     <option name="height" value="735" />
@@ -291,7 +258,7 @@
               <item name="Ania-s-Ekoproject" type="462c0819:PsiDirectoryNode" />
               <item name="js" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
-              <item name="HeadLine" type="462c0819:PsiDirectoryNode" />
+              <item name="ColorOfBaskets" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Ania-s-Ekoproject" type="b2602c69:ProjectViewProjectNode" />
@@ -321,24 +288,24 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="C:/Documents and Settings" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Użytkownik\Desktop\Ania-s-Ekoproject\js" />
-      <recent name="C:\Users\Użytkownik\Desktop\Ania-s-Ekoproject\js\data" />
-      <recent name="C:\Users\Użytkownik\Desktop\Ania-s-Ekoproject\js\components\App" />
-      <recent name="C:\Users\Użytkownik\Desktop\Ania-s-Ekoproject\css" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Użytkownik\Desktop\Ania-s-Ekoproject\js\data" />
       <recent name="C:\Users\Użytkownik\Desktop\Ania-s-Ekoproject\dist" />
       <recent name="C:\Users\Użytkownik\Desktop\Ania-s-Ekoproject\images" />
       <recent name="C:\Users\Użytkownik\Desktop\Ania-s-Ekoproject" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Użytkownik\Desktop\Ania-s-Ekoproject\js" />
+      <recent name="C:\Users\Użytkownik\Desktop\Ania-s-Ekoproject\js\data" />
+      <recent name="C:\Users\Użytkownik\Desktop\Ania-s-Ekoproject\js\components\App" />
+      <recent name="C:\Users\Użytkownik\Desktop\Ania-s-Ekoproject\css" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -381,22 +348,23 @@
       <workItem from="1557404174890" duration="7220000" />
       <workItem from="1557414358156" duration="605000" />
       <workItem from="1557480080495" duration="15348000" />
+      <workItem from="1557515969789" duration="13453000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90711000" />
+    <option name="totallyTimeSpent" value="104164000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="676" y="0" width="697" height="735" extended-state="0" />
     <layout>
       <window_info id="npm" order="0" side_tool="true" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.20238096" />
+      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.0" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.4984326" weight="0.4557377" />
-      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5015674" side_tool="true" weight="0.7737105" />
+      <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5015674" side_tool="true" weight="0.77213115" />
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.3294509" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" weight="0.3295082" />
@@ -412,10 +380,10 @@
     <layout-to-restore>
       <window_info id="npm" order="0" side_tool="true" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.15550596" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.16220239" />
       <window_info id="Structure" order="3" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.4984326" weight="0.45737705" />
+      <window_info anchor="bottom" id="Terminal" order="1" sideWeight="0.4984326" weight="0.4557377" />
       <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.5015674" side_tool="true" weight="0.7737105" />
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.3294509" />
       <window_info anchor="bottom" id="Message" order="4" />
@@ -448,16 +416,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css" />
-    <entry file="file://$PROJECT_DIR$/images/animals.jpg" />
-    <entry file="file://$PROJECT_DIR$/js/data/kategoriesmieci.js" />
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -533,13 +491,6 @@
     <entry file="file://$PROJECT_DIR$/js/components/Baskets/Baskets.css" />
     <entry file="file://$PROJECT_DIR$/js/components/Baskets/Baskets.js" />
     <entry file="file://$PROJECT_DIR$/js/data/baskets.js" />
-    <entry file="file://$PROJECT_DIR$/js/app.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/data/colorOfBaskets.js" />
     <entry file="file://$PROJECT_DIR$/js/data/zadanie00_02.js" />
     <entry file="file://$PROJECT_DIR$/js/App.js">
@@ -552,37 +503,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/components/ColorOfBaskets/ColorOfBaskets.js">
+    <entry file="file://$PROJECT_DIR$/js/data/colorOfBaskes.js" />
+    <entry file="file://$PROJECT_DIR$/js/components/SearchBar/TrashList/Trashlist.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" column="23" lean-forward="true" selection-start-line="19" selection-start-column="23" selection-end-line="19" selection-end-column="23" />
-          <folding>
-            <element signature="e#61#109#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/components/ColorOfBaskets/ColorOFBaskets.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="9" column="16" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/data/colorOfBaskes.js">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/components/Modal/Modal.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/components/Modal/Modal.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+        <state relative-caret-position="504">
+          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
         </state>
       </provider>
     </entry>
@@ -590,6 +515,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/components/Modal/Modal.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="39" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
         </state>
       </provider>
     </entry>
@@ -607,33 +539,164 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/components/SearchBar/TrashList/TrashList.js">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_zrodla.zip/zrodla-react-od-podstaw/04 - 01 - Rozbudowa struktury aplikacji - finish/src/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="496">
-          <caret line="26" column="9" lean-forward="true" selection-start-line="26" selection-start-column="9" selection-end-line="26" selection-end-column="9" />
+        <state>
           <folding>
             <element signature="e#0#26#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/components/SearchBar/TrashList/Trashlist.css">
+    <entry file="file://$PROJECT_DIR$/js/app.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="499">
-          <caret line="24" column="34" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
+        <state relative-caret-position="189">
+          <caret line="11" column="3" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="11" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_zrodla.zip/zrodla-react-od-podstaw/04 - 01 - Rozbudowa struktury aplikacji - finish/src/views/Root/Root.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_zrodla.zip/zrodla-react-od-podstaw/03 - 11 - Renderowanie warunkowe - finish/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-551">
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_zrodla.zip/zrodla-react-od-podstaw/03 - 06 - Dodawanie nowego elementu listy/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_zrodla.zip/zrodla-react-od-podstaw/03 - 02 - Modyfikowanie stanu komponentu - finish/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_zrodla.zip/zrodla-react-od-podstaw/03 - 11 - Renderowanie warunkowe - finish/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_zrodla.zip/zrodla-react-od-podstaw/03 - 11 - Renderowanie warunkowe - finish/src/index.css">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_zrodla.zip/zrodla-react-od-podstaw/03 - 04 - Stworzenie rodzica ze stanem aplikacji/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="2" lean-forward="true" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_zrodla.zip/zrodla-react-od-podstaw/03 - 05 - Pobieranie danych od komponento╠üw dzieci - finish/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_zrodla.zip/zrodla-react-od-podstaw/03 - 05 - Pobieranie danych od komponento╠üw dzieci/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_zrodla.zip/zrodla-react-od-podstaw/03 - 10 - Ekstrakcja komponentu - finish/src/App.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/components/Modal/Modal.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="19" lean-forward="true" selection-start-line="1" selection-start-column="4" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/components/ColorOfBaskets/ColorOfBaskets.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4263">
+          <caret line="201" selection-start-line="201" selection-end-line="201" />
+          <folding>
+            <element signature="e#61#109#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/components/ColorOfBaskets/ColorOFBaskets.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/data/allTrash.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="394">
-          <caret line="451" column="16" selection-start-line="451" selection-start-column="16" selection-end-line="451" selection-end-column="16" />
+        <state relative-caret-position="436">
+          <caret line="542" column="6" selection-start-line="542" selection-start-column="6" selection-end-line="542" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_zrodla.zip/react-pliki/6. Formularze/1. Syntetyczne Zdarzenia - Wyszukiwarka/Finished1/StateStore.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Temp1_zrodla.zip/react-pliki/6. Formularze/1. Syntetyczne Zdarzenia - Wyszukiwarka/Finished1/courses_data.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/components/SearchBar/TrashList/TrashList.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="25" column="34" selection-start-line="25" selection-start-column="34" selection-end-line="25" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#26#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/components/SearchBar/SearchBar.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="211">
+        <state relative-caret-position="68">
           <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
           <folding>
             <element signature="e#0#26#0" expanded="true" />

@@ -23,7 +23,7 @@ class TrashList extends React.Component {
             )
         }
         return (
-            <p>No results!</p>
+            <p>Nie znaleziono.</p>
         )
 
 

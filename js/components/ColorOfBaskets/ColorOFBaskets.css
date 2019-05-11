@@ -15,32 +15,66 @@
 .papier {
    width:200px;
    height:200px;
+   cursor: pointer;
 }
 .bio{
     width:200px;
     height:200px;
+    cursor: pointer;
 }
 .zmieszane{
     width:200px;
     height:200px;
+    cursor: pointer;
 }
 .szklo{
     width:200px;
     height:200px;
+    cursor: pointer;
 }
 .metale{
     width:200px;
     height:200px;
+    cursor: pointer;
 }
 .zielone{
     width:200px;
     height:200px;
+    cursor: pointer;
 }
 .wielkogabarytowe{
     width:200px;
     height:200px;
+    cursor: pointer;
+}
+img {
+    margin-top:10px;
 }
 
-img {
-    margin-top:20px;
+.basketDiv{
+    top: 50%;
+    transform: translateY(-50%);
+    left: 0;
+    right: 0;
+    margin: 10px;
+    width: 30vw;
+    height: 50vh;
+    background-color: white;
+    text-align: center;
+    display: block;
+    box-shadow: 0 20px 40px -5px grey;
+
+}
+.basketDivH1{
+    padding:5px;
+}
+.basketDiv p{
+    padding:5px;
+    margin-bottom: 10px;
+}
+.basketDivH2 {
+    margin-top: 5px;
+}
+.basketDiv img {
+    margin: auto ;
 }
